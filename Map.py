@@ -24,7 +24,7 @@ import cmath
 
 
 #image goes here
-img = PIL.Image.open("IMG_4505.JPG") 
+img = PIL.Image.open("Sample_1.JPG") 
 #img = PIL.Image.open("Sample_2.JPG") 
 #img = PIL.Image.open("Sample_3.JPG") 
 
